@@ -1,0 +1,3 @@
+FROM codercom/code-server:latest
+ENV PASSWORD Aa123123
+EXPOSE 8080
